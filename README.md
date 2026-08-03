@@ -45,8 +45,6 @@ Keep it personable and approachable, but professional.] -->
 <!--           MY PROJECTS         -->
 <!-- ============================= -->
 
----
-
 <!-- ============================= -->
 <!--           WIP PROJECTS        -->
 <!-- ============================= -->
