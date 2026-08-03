@@ -55,7 +55,7 @@ Keep it personable and approachable, but professional.] -->
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/alvaro1gonzalez)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro1gonzalez/)  
 
 ---
 
