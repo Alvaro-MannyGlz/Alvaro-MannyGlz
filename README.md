@@ -88,11 +88,3 @@
 <!--           GITHUB STATS        -->
 <!-- ============================= -->
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alvaro-MannyGlz&show_icons=true&theme=radical" alt="Manny's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-MannyGlz&layout=compact&theme=radical" alt="Top Languages" />
-</p>
